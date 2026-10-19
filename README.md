@@ -12,5 +12,7 @@ Python & Data Science réalisés sur Google Colab.
 | TD1 | Introduction à Git | :white_check_mark: |
 | TD2 | Introduction à GitHub | :white_check_mark: |
 | TD3 | Les bases de Python | :white_check_mark: |
+| TD4 | Fonctions, modules et NumPy | :white_check_mark: |
+
 ## Crédits
 Cours de M. Guéry- Faculté d'Economie, UPJV
