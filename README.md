@@ -15,6 +15,7 @@ Python & Data Science réalisés sur Google Colab.
 | TD4 | Fonctions, modules et NumPy | :white_check_mark: |
 | TD5 | Matplotlib, dictionnaires et Pandas| :white_check_mark: |
 | TD6 | Logique, flux de contrôle, filtrage et boucles| :white_check_mark: |
+| TD7 | Étude de cas statistiques + Mini-projet 1| :white_check_mark: |
 
 
 ## Crédits
